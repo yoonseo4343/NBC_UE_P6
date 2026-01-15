@@ -1,4 +1,4 @@
-## [7번 과제] Pawn 클래스로 3D 캐릭터 만들기
+## [6번 과제] 회전 발판과 움직이는 장애물
 
 <https://zzageuli.tistory.com/44>
 
